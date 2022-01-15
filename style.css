@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+    font-family: sans-serif;
+}
+h1{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    margin: 0px;
+}
+img{
+width: 1214px;
+height: 550px;
+}
+p{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    margin: 0px;
+    font-size: 30px;
+}
