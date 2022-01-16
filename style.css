@@ -22,3 +22,19 @@ p{
     margin: 0px;
     font-size: 30px;
 }
+nav{
+  text-decoration:none;
+  font-size: 40px;
+  border: 5px dashed blue;
+  background-color: black;
+  color:white;
+  padding: 5px;
+  margin: 0px;
+  margin-top:0px;
+  }
+  a{
+color:white;
+text-decoration:none;
+padding-left: 650px;
+padding-right: 650px;
+  }
